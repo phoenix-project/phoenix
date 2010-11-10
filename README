@@ -1,0 +1,53 @@
+Phoenix 
+======= 
+
+Phoenix is a hardware plus software framework for developing computer
+interfaced science experiments without getting in to the details of
+electronics or computer programming. Sensor and control elements
+connected to Phoenix can be accessed using simple commands. Text based
+and GUI programs are available for several experiments. Python
+programming language is used as a tool for data acquisition, analysis,
+display and for writing simulation programs.
+
+Objective of the project is to improve the laboratory facilities at
+the Universities and also to utilize computers in a better manner to
+teach science. The hardware design is freely available. The project is
+based on Free Software tools and the code is distributed under GNU
+General Public License. The figure above shows Phoenix connected to a
+netbook working as a low frequency oscilloscope and waveform
+generator.
+
+The basic interfface consists of several Digital and Analog
+Input/Output channels with some extra features like frequency counter,
+waveform generator, amplifiers, constant current source
+etc. Accessories are developed for performing several experiments,
+utilizing different kinds of sensor elements. In some cases where the
+acessories require a lot of inter-connections with the basic
+interface, we have integrated them into a single box that can be
+directly interfaced to the PC, resulting in Derivatives of
+Phoenix. Phoenix also works as a micro-controller development kit,
+uisng the gcc-avr compiler.
+
+Phoenix is a Project of Inter University Accelerator Centre, New Delhi 110 067
+
+Design and Code
+=============== 
+Dr. Ajith Kumar BP
+ajith@iuac.res.in
+
+Web
+===
+http://www.iuac.res.in/phoenix
+
+Code Repository
+===============
+https://github.com/phoenix-project/phoenix
+
+License
+=======
+
+All the software included in this package are under GNU GPL v3.0 or
+later, unless other wise stated.
+
+
+
